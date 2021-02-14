@@ -43,3 +43,12 @@ define(
         "twitter_site" => "@Wanders74960970"
     ]
     );
+define("MAIL", []);
+
+define("FACEBOOK_LOGIN", []);
+
+define("GOOGLE_LOGIN", []);
+
+
+
+
